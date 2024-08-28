@@ -1,0 +1,501 @@
+order_id,customer_id,date,total_amount,payment_method,shipping_address,status
+101,242,2022-09-14,706.64,mastercard,1269 Nevada Avenue,shipped
+102,33,2023-11-09,1594.39,visa,9 Lighthouse Bay Point,processing
+103,170,2021-10-25,735.74,mastercard,25 Hoffman Road,delivered
+104,97,2023-10-24,222.78,mastercard,91 Leroy Trail,processing
+105,79,2022-04-12,1616.12,americanexpress,9 Pankratz Parkway,delivered
+106,176,2023-08-06,878.56,mastercard,84248 Warrior Point,shipped
+107,166,2023-04-13,1411.7,mastercard,286 Basil Court,shipped
+108,29,2023-10-18,916.79,americanexpress,2168 Continental Crossing,processing
+109,80,2022-01-03,251.39,americanexpress,6717 Sherman Hill,shipped
+110,62,2022-06-27,1280.93,visa,3613 Clarendon Park,processing
+111,36,2022-09-08,904.82,americanexpress,850 Jenifer Terrace,delivered
+112,129,2020-07-18,1187.03,mastercard,2 Lillian Lane,shipped
+113,211,2023-01-01,1620.52,mastercard,834 Derek Circle,delivered
+114,283,2019-12-29,489.92,americanexpress,4 Hanover Parkway,processing
+115,296,2020-09-13,1337.06,mastercard,56925 Eliot Drive,shipped
+116,92,2022-10-02,1081.12,americanexpress,13580 Fieldstone Road,processing
+117,152,2022-11-03,1004.56,americanexpress,723 Hagan Point,shipped
+118,16,2023-04-26,1960.54,visa,69134 Muir Drive,processing
+119,88,2020-11-22,674.85,visa,1356 Portage Lane,processing
+120,45,2018-03-15,619.79,mastercard,7467 Steensland Hill,shipped
+121,37,2019-11-19,1642.26,americanexpress,7 Calypso Parkway,delivered
+122,27,2021-01-07,1985.42,mastercard,03 Bashford Place,shipped
+123,219,2019-03-22,210.77,mastercard,7 Sherman Terrace,processing
+124,15,2019-03-22,1179.92,americanexpress,813 Scott Parkway,delivered
+125,170,2019-02-01,1059.41,mastercard,051 Loftsgordon Drive,shipped
+126,232,2023-07-30,518.82,americanexpress,67478 Corry Park,delivered
+127,66,2018-05-23,570.21,visa,40 Thackeray Pass,processing
+128,128,2021-06-05,423.49,visa,18 Chinook Parkway,delivered
+129,288,2018-02-03,1375.57,mastercard,9 Bultman Hill,processing
+130,125,2021-05-07,1897.84,mastercard,1 Nova Trail,delivered
+131,84,2022-05-27,1357.44,visa,163 Ramsey Center,shipped
+132,280,2019-09-29,308.55,mastercard,80 Novick Trail,processing
+133,176,2021-10-22,630.98,mastercard,17 Carey Pass,shipped
+134,209,2019-02-26,630.67,visa,405 Jay Park,delivered
+135,228,2023-10-15,1228.44,visa,762 Chive Parkway,processing
+136,73,2018-12-12,1800.46,visa,68710 Londonderry Center,delivered
+137,263,2022-02-23,913.96,americanexpress,7386 Clarendon Hill,delivered
+138,64,2022-10-08,1022.19,americanexpress,7505 Oak Valley Hill,processing
+139,235,2018-10-19,975.75,visa,964 Lillian Avenue,processing
+140,278,2022-12-17,1358.88,americanexpress,00036 Maywood Parkway,delivered
+141,252,2018-08-08,674.88,americanexpress,0801 Dixon Parkway,processing
+142,275,2021-06-29,972.09,americanexpress,948 Heath Pass,delivered
+143,272,2023-08-18,654.25,mastercard,79 Ridgeview Circle,delivered
+144,251,2020-06-06,1376.88,americanexpress,0 Forster Circle,processing
+145,205,2021-01-22,1417.53,visa,63595 Ramsey Parkway,processing
+146,89,2022-07-04,1357.55,americanexpress,185 Sutherland Road,processing
+147,29,2023-09-10,879.72,americanexpress,1 Schlimgen Way,processing
+148,265,2023-02-14,1806.84,mastercard,2 Jackson Way,delivered
+149,229,2018-04-18,1891.74,visa,1807 Sage Street,delivered
+150,64,2023-06-15,1224.6,visa,069 Stone Corner Point,processing
+151,273,2022-01-06,1519.85,americanexpress,085 Cherokee Parkway,processing
+152,191,2019-04-08,871.3,americanexpress,255 Dennis Terrace,processing
+153,227,2019-07-30,1525.79,mastercard,03 Esker Drive,delivered
+154,73,2019-01-05,595.33,visa,18611 Florence Crossing,processing
+155,13,2022-04-06,294.83,americanexpress,857 Cody Plaza,delivered
+156,115,2018-09-21,327.71,mastercard,757 Chinook Alley,delivered
+157,292,2022-09-07,565.58,visa,620 Dayton Terrace,processing
+158,124,2023-04-18,1948.06,mastercard,63919 Merry Pass,delivered
+159,270,2021-09-10,904.96,mastercard,0888 Summit Street,delivered
+160,215,2021-06-07,1834.26,visa,31 6th Trail,processing
+161,240,2020-04-27,297.83,mastercard,34015 Maple Wood Avenue,delivered
+162,61,2018-05-23,1589.43,americanexpress,90228 Portage Point,delivered
+163,30,2018-10-28,1588.64,visa,24572 Leroy Road,shipped
+164,109,2023-10-09,984.71,americanexpress,0 Thackeray Park,processing
+165,299,2022-11-19,573.11,mastercard,7489 Cordelia Circle,processing
+166,45,2023-02-03,553.47,mastercard,45345 Oakridge Parkway,delivered
+167,120,2021-02-01,1749.89,visa,3 Grover Pass,delivered
+168,190,2018-10-04,948.76,visa,20 Brown Parkway,processing
+169,249,2021-11-04,230.73,visa,44452 Warner Road,shipped
+170,24,2021-01-06,1635.51,visa,529 Welch Point,delivered
+171,294,2023-09-26,1296.02,americanexpress,08 Stephen Place,delivered
+172,98,2023-06-12,577.58,mastercard,589 Lakewood Terrace,shipped
+173,228,2019-06-24,1322.92,americanexpress,86 Heath Drive,processing
+174,48,2019-03-05,1699.77,mastercard,0 6th Parkway,shipped
+175,242,2021-03-07,1285.55,visa,41 Meadow Vale Pass,delivered
+176,28,2021-12-21,466.22,mastercard,1 Bay Street,processing
+177,230,2018-06-13,770.72,mastercard,438 Kingsford Avenue,processing
+178,131,2023-02-20,927.56,mastercard,3305 Gerald Lane,delivered
+179,274,2020-04-18,1089.57,mastercard,526 Grayhawk Junction,delivered
+180,25,2021-06-21,571.93,mastercard,689 Pleasure Parkway,processing
+181,184,2023-02-07,1359.04,visa,4 Bartillon Drive,delivered
+182,266,2019-04-10,1718.13,mastercard,28151 Veith Way,shipped
+183,27,2022-09-28,1873.06,americanexpress,03004 Goodland Center,delivered
+184,87,2020-09-26,1659.84,mastercard,616 Stone Corner Circle,shipped
+185,149,2020-03-08,1095.46,mastercard,540 Bultman Way,shipped
+186,170,2019-04-23,506.22,visa,89 Dawn Way,shipped
+187,293,2021-09-23,1375.4,mastercard,86 Westend Plaza,processing
+188,111,2023-05-16,381.17,mastercard,78 Drewry Pass,processing
+189,3,2020-09-13,822.56,americanexpress,83 Mesta Crossing,delivered
+190,180,2019-08-05,1226.34,visa,8662 Oak Trail,processing
+191,262,2019-09-19,904.32,mastercard,18 Logan Park,delivered
+192,3,2019-12-11,1795.09,mastercard,07 Laurel Point,delivered
+193,121,2020-01-07,1364.72,mastercard,4549 Chinook Center,delivered
+194,228,2021-12-25,1160.71,mastercard,77400 Northridge Avenue,processing
+195,51,2019-05-07,403.35,americanexpress,6154 Marcy Court,processing
+196,94,2019-09-07,1490.35,americanexpress,8 Dryden Terrace,delivered
+197,248,2022-02-19,781.67,americanexpress,1 Anzinger Parkway,delivered
+198,49,2020-11-18,1113.06,mastercard,6641 Morrow Plaza,processing
+199,12,2021-04-06,571.91,mastercard,766 Brentwood Center,delivered
+200,109,2022-09-18,978.05,visa,0 Orin Lane,shipped
+201,64,2019-04-12,1651.64,mastercard,95957 Southridge Circle,processing
+202,201,2019-10-16,475.86,visa,3032 Tennyson Parkway,delivered
+203,263,2018-08-13,1011.74,americanexpress,673 Sunbrook Plaza,shipped
+204,199,2021-01-15,1197.73,americanexpress,49170 Vernon Plaza,shipped
+205,162,2023-04-02,1010.6,visa,5 Manufacturers Way,delivered
+206,189,2021-08-10,1399.46,visa,5 Dennis Avenue,delivered
+207,202,2019-03-21,678.14,visa,5340 Londonderry Court,delivered
+208,267,2022-07-01,1025.17,americanexpress,7 Ludington Avenue,delivered
+209,174,2023-06-11,627.07,visa,00 Village Junction,delivered
+210,197,2022-08-19,696.73,visa,0738 Sachs Parkway,processing
+211,61,2022-03-20,288.46,americanexpress,23442 Shoshone Way,processing
+212,285,2020-02-05,774.2,americanexpress,610 Sachtjen Pass,delivered
+213,232,2021-05-09,1952.25,mastercard,6247 Hanson Court,processing
+214,20,2019-11-24,1309.84,americanexpress,24987 Commercial Drive,shipped
+215,67,2018-12-28,588.14,americanexpress,120 Dorton Plaza,shipped
+216,279,2023-01-25,572.1,americanexpress,2913 Bashford Terrace,shipped
+217,183,2020-03-04,802.01,mastercard,477 Golf View Alley,delivered
+218,55,2021-12-30,1802.15,americanexpress,11442 Hoepker Point,delivered
+219,92,2020-09-02,603.94,americanexpress,39551 Coolidge Plaza,shipped
+220,98,2020-08-12,773.75,americanexpress,138 Shoshone Circle,delivered
+221,141,2018-03-22,1846.06,americanexpress,162 Northland Alley,shipped
+222,139,2020-10-12,1656.26,americanexpress,6 Bunting Point,processing
+223,115,2018-10-15,1863.87,americanexpress,67002 Grayhawk Circle,shipped
+224,120,2022-11-05,1672.11,mastercard,58 Eliot Drive,processing
+225,262,2021-10-06,442.24,mastercard,666 Arrowood Park,delivered
+226,184,2018-07-14,488.39,visa,724 Evergreen Drive,processing
+227,182,2021-07-13,1322.76,americanexpress,26874 Manufacturers Street,shipped
+228,126,2021-05-11,228.71,mastercard,2 Vahlen Lane,delivered
+229,121,2018-02-13,753.44,americanexpress,943 Lotheville Road,shipped
+230,298,2019-07-25,1627.08,mastercard,5356 Eagle Crest Pass,processing
+231,208,2022-12-11,1091.53,visa,1922 Walton Court,processing
+232,109,2021-09-27,1410.76,mastercard,8200 Canary Terrace,shipped
+233,134,2019-11-22,528.75,mastercard,919 Hallows Plaza,processing
+234,140,2021-04-21,467.19,americanexpress,663 Luster Terrace,shipped
+235,91,2020-01-21,660.72,mastercard,88954 Nelson Circle,delivered
+236,90,2018-11-08,1051.78,mastercard,081 Colorado Road,delivered
+237,117,2021-09-21,1856.57,mastercard,6 International Place,delivered
+238,143,2020-04-15,347.51,visa,8 Moulton Place,delivered
+239,250,2022-10-29,1572.81,visa,12 Myrtle Pass,processing
+240,201,2020-03-19,1562.87,mastercard,0 Memorial Place,processing
+241,195,2020-03-20,712.7,visa,657 Anzinger Way,processing
+242,203,2022-03-31,1393.04,americanexpress,3951 Logan Road,delivered
+243,179,2023-02-14,285.84,mastercard,337 Summit Park,delivered
+244,29,2020-01-13,861.35,visa,229 Luster Drive,delivered
+245,79,2018-11-20,1469.92,visa,73 Moulton Circle,shipped
+246,165,2020-12-01,1222.13,visa,218 Lunder Avenue,shipped
+247,258,2019-10-09,415.31,mastercard,05771 Macpherson Terrace,shipped
+248,65,2018-05-27,568.2,mastercard,63 Pankratz Junction,processing
+249,1,2018-04-15,1510.43,mastercard,685 Marcy Plaza,delivered
+250,114,2023-09-09,1350.47,americanexpress,06 Crowley Crossing,processing
+251,228,2021-05-03,1411.57,mastercard,13 Sutteridge Circle,delivered
+252,235,2020-12-13,411.79,mastercard,1395 Mosinee Terrace,delivered
+253,212,2019-07-22,295.06,mastercard,6341 Rutledge Lane,processing
+254,92,2023-09-11,1326.08,visa,23686 Bultman Way,processing
+255,196,2019-05-03,217.74,americanexpress,3862 Dryden Point,delivered
+256,193,2020-03-22,653.84,mastercard,92 Loeprich Avenue,shipped
+257,244,2021-01-09,1077.35,mastercard,596 Leroy Drive,shipped
+258,219,2019-11-19,1829.34,mastercard,8 Mockingbird Way,processing
+259,160,2021-07-21,1536.21,mastercard,8 Pearson Drive,delivered
+260,75,2023-05-14,958.66,americanexpress,1022 Michigan Center,shipped
+261,270,2018-02-25,1781.55,americanexpress,411 Clove Center,delivered
+262,85,2018-10-07,227.99,americanexpress,80221 Scofield Center,processing
+263,142,2018-01-04,1693.41,mastercard,965 Sauthoff Crossing,shipped
+264,298,2019-04-15,783.41,visa,6130 Waubesa Crossing,delivered
+265,162,2022-08-07,362.51,visa,142 Del Sol Park,processing
+266,16,2022-04-12,1201.1,visa,3 Almo Avenue,delivered
+267,46,2019-05-08,1951.12,mastercard,25301 Kensington Terrace,shipped
+268,28,2021-05-08,357.47,visa,3316 Leroy Place,shipped
+269,125,2021-01-20,1625.26,americanexpress,553 Jay Street,delivered
+270,158,2022-03-12,1833.39,visa,1783 Anderson Place,delivered
+271,72,2023-04-01,483.37,visa,09 Morrow Avenue,delivered
+272,79,2020-03-26,687.32,americanexpress,018 Haas Lane,shipped
+273,86,2020-11-12,321.98,americanexpress,830 Barnett Street,processing
+274,118,2022-04-05,1933.14,americanexpress,95753 Manufacturers Lane,processing
+275,126,2021-11-03,1075.38,americanexpress,20759 Iowa Avenue,processing
+276,66,2018-06-08,1671.7,mastercard,521 Hermina Pass,processing
+277,11,2022-07-21,1259.99,americanexpress,9 Cody Terrace,delivered
+278,176,2018-01-25,375.96,americanexpress,06 Fairview Way,shipped
+279,263,2023-08-26,1021.7,mastercard,694 Jana Lane,shipped
+280,189,2020-12-17,1077.07,americanexpress,8 Petterle Plaza,processing
+281,203,2023-08-25,683.99,mastercard,53766 Prairieview Center,processing
+282,147,2022-11-27,1893.01,mastercard,1 Quincy Trail,shipped
+283,49,2019-12-27,1176.95,americanexpress,14744 Eagle Crest Park,delivered
+284,15,2020-09-23,1580.08,mastercard,96 Park Meadow Parkway,shipped
+285,174,2022-05-27,1522.02,mastercard,9 7th Center,processing
+286,230,2018-03-16,1110.55,americanexpress,7 Kennedy Crossing,shipped
+287,49,2019-02-16,639.97,visa,8 Sutteridge Parkway,delivered
+288,67,2020-03-29,1942.82,mastercard,6 Towne Park,delivered
+289,246,2021-01-09,593.59,americanexpress,3121 Carpenter Park,delivered
+290,229,2023-04-12,1628.89,mastercard,1 Golf View Lane,shipped
+291,108,2019-09-18,249.34,mastercard,84 Mifflin Way,delivered
+292,18,2023-09-07,1691.15,mastercard,8 Mockingbird Drive,processing
+293,174,2023-07-07,1617.1,visa,21407 Sundown Point,shipped
+294,285,2020-09-28,708.13,mastercard,3 Morrow Court,shipped
+295,69,2021-07-08,607.79,mastercard,1970 Everett Road,processing
+296,46,2021-12-03,1139.98,mastercard,3607 Lake View Center,delivered
+297,55,2020-08-15,770.44,mastercard,02867 Kennedy Drive,processing
+298,30,2023-09-07,1542.8,visa,02 Sunbrook Plaza,delivered
+299,25,2023-05-10,1780.24,americanexpress,3 Forest Dale Terrace,shipped
+300,140,2022-12-24,672.25,mastercard,22 Lakewood Gardens Parkway,delivered
+301,118,2022-05-28,956.16,americanexpress,39965 Kenwood Alley,delivered
+302,189,2019-02-04,1703.84,mastercard,256 Redwing Crossing,shipped
+303,10,2020-07-09,652.56,mastercard,5452 Jana Park,shipped
+304,51,2021-09-06,1925.46,mastercard,76066 Beilfuss Junction,shipped
+305,65,2023-11-21,1528.79,americanexpress,096 Mayer Drive,shipped
+306,123,2018-07-07,486.03,mastercard,83 Southridge Place,delivered
+307,126,2019-08-06,795.56,americanexpress,6476 Atwood Parkway,shipped
+308,136,2023-04-30,1906.31,americanexpress,77857 Dunning Street,delivered
+309,82,2018-10-16,1799.06,visa,9 Westport Place,delivered
+310,102,2018-12-08,1131.18,mastercard,23673 Welch Alley,shipped
+311,201,2022-03-14,984.65,visa,12011 Atwood Drive,shipped
+312,29,2022-02-27,1996.04,visa,67 Holy Cross Terrace,delivered
+313,176,2022-08-20,1318.9,americanexpress,40106 Vermont Place,processing
+314,250,2022-03-19,1536.25,visa,37016 Warner Crossing,shipped
+315,90,2022-06-10,458.7,mastercard,46591 Marquette Way,shipped
+316,96,2019-06-27,1081.48,mastercard,473 Farwell Way,shipped
+317,106,2020-03-18,1111.94,visa,528 Raven Avenue,delivered
+318,20,2021-05-10,803.83,mastercard,51 David Drive,delivered
+319,13,2022-07-24,1441.19,mastercard,1 Johnson Court,shipped
+320,82,2020-04-05,394.92,americanexpress,2 Rieder Avenue,delivered
+321,101,2023-10-16,1213.39,mastercard,76761 Melody Court,delivered
+322,153,2019-12-30,1677.21,visa,1719 Charing Cross Junction,shipped
+323,45,2022-09-11,315.69,mastercard,8 Meadow Vale Hill,shipped
+324,106,2022-02-08,508.17,visa,51 Springview Place,processing
+325,146,2019-02-25,1159.34,mastercard,2621 Fremont Alley,shipped
+326,280,2023-06-06,920.6,visa,815 Shoshone Way,processing
+327,41,2023-08-28,1018.3,americanexpress,7 Pennsylvania Road,delivered
+328,195,2020-07-28,1144.58,mastercard,3206 Hermina Alley,processing
+329,81,2023-10-11,1331.94,visa,28 Union Parkway,delivered
+330,125,2022-08-28,529.49,visa,1971 Lotheville Trail,processing
+331,261,2022-07-07,1027.55,mastercard,181 Hanson Trail,processing
+332,99,2018-08-31,1020.48,mastercard,23094 Burning Wood Lane,processing
+333,97,2023-03-31,1164.8,mastercard,0 Atwood Point,processing
+334,150,2018-05-21,1251.99,americanexpress,96 Waxwing Place,delivered
+335,59,2021-09-16,291.56,visa,68 Killdeer Trail,delivered
+336,80,2022-06-29,1894.44,mastercard,6768 Washington Avenue,delivered
+337,198,2021-05-28,1190.27,visa,3 Scofield Court,delivered
+338,140,2022-11-03,276.77,americanexpress,3122 Talisman Plaza,delivered
+339,176,2022-06-16,1912.83,visa,49 Farwell Road,processing
+340,264,2023-11-18,1947.6,visa,6 Clemons Terrace,processing
+341,12,2019-04-11,1073.26,americanexpress,077 6th Crossing,delivered
+342,66,2019-02-19,1271.23,visa,7179 Porter Place,processing
+343,141,2018-04-29,1909.42,americanexpress,4491 Larry Park,delivered
+344,260,2022-12-23,843.54,mastercard,9 Gale Crossing,delivered
+345,289,2021-06-15,522.27,visa,5028 Kim Hill,shipped
+346,21,2018-07-07,1364.99,visa,72071 Ramsey Circle,processing
+347,258,2022-06-20,751.03,mastercard,1923 Fairview Drive,processing
+348,273,2022-07-02,1131.38,visa,4 Sycamore Circle,delivered
+349,32,2022-12-30,1713.76,americanexpress,4 South Terrace,delivered
+350,78,2021-06-11,1022.41,americanexpress,9 Caliangt Drive,delivered
+351,210,2021-12-24,219.83,mastercard,11755 Commercial Place,delivered
+352,292,2020-01-14,1974.37,mastercard,1838 Messerschmidt Center,processing
+353,232,2020-07-10,1961.07,visa,07753 Kinsman Pass,shipped
+354,81,2021-06-21,1530.13,americanexpress,121 Erie Trail,shipped
+355,218,2019-10-27,1585.1,visa,72 Garrison Way,processing
+356,198,2022-10-19,243.26,americanexpress,8 Granby Terrace,processing
+357,297,2021-01-19,1259.23,visa,7826 Rusk Crossing,delivered
+358,151,2019-07-25,1375.51,visa,4889 Sunnyside Alley,shipped
+359,120,2023-10-20,1289.75,americanexpress,26 Tony Road,shipped
+360,28,2023-06-12,1716.21,americanexpress,8 Clove Avenue,shipped
+361,201,2020-04-19,1449.79,visa,2411 Hermina Crossing,shipped
+362,122,2018-09-21,1028.32,mastercard,8528 Chive Pass,delivered
+363,32,2020-04-18,1780.88,mastercard,07517 Duke Hill,delivered
+364,148,2020-06-08,1579.19,mastercard,94 Fallview Circle,delivered
+365,210,2020-05-12,934.47,mastercard,8 Sycamore Plaza,shipped
+366,89,2021-03-17,1458.49,americanexpress,71 1st Drive,shipped
+367,291,2021-01-27,655.82,mastercard,64367 Grover Junction,shipped
+368,113,2023-06-12,1158.52,mastercard,76 Anthes Way,processing
+369,165,2019-09-25,1506.96,americanexpress,92 Granby Point,delivered
+370,84,2021-02-25,1799.23,americanexpress,2848 Kingsford Lane,shipped
+371,246,2021-10-15,528.31,visa,697 Fair Oaks Junction,delivered
+372,75,2019-10-07,1253.36,mastercard,891 Mendota Hill,processing
+373,52,2023-02-17,1409.59,mastercard,5 Crownhardt Trail,shipped
+374,56,2018-10-18,399.78,americanexpress,1 Hooker Trail,shipped
+375,90,2018-08-24,830,americanexpress,1171 Mariners Cove Lane,shipped
+376,98,2020-06-09,577.44,americanexpress,13 Starling Avenue,processing
+377,28,2022-10-24,912.17,americanexpress,95 Russell Court,shipped
+378,282,2021-06-05,1253.16,americanexpress,3 Ridge Oak Park,shipped
+379,200,2021-05-01,1714.45,mastercard,6 Upham Circle,shipped
+380,135,2018-09-06,614.97,mastercard,386 Vermont Court,processing
+381,74,2021-12-17,1064.36,mastercard,4 Lotheville Drive,shipped
+382,41,2019-01-29,1184.24,americanexpress,6435 Butterfield Pass,delivered
+383,16,2020-10-23,1717.02,mastercard,57244 Valley Edge Crossing,delivered
+384,65,2021-05-04,1647.34,visa,86927 Spohn Point,processing
+385,1,2021-06-04,1380.58,americanexpress,26 Hanover Hill,processing
+386,175,2021-11-16,1591.5,americanexpress,2 Pennsylvania Center,shipped
+387,57,2018-06-01,1330.47,americanexpress,0 Lerdahl Circle,shipped
+388,115,2019-04-03,1300.51,mastercard,984 Cottonwood Pass,shipped
+389,83,2019-12-17,834.64,mastercard,89 Warner Plaza,delivered
+390,246,2022-01-24,1033.84,mastercard,7674 Goodland Street,processing
+391,33,2023-02-11,1130.39,americanexpress,29918 Vernon Alley,processing
+392,149,2021-05-28,1145.8,mastercard,46 Eagle Crest Circle,processing
+393,262,2021-09-09,522.82,mastercard,82 Sunfield Junction,shipped
+394,211,2018-06-01,1543.3,visa,780 Crest Line Park,shipped
+395,25,2023-09-20,458.1,americanexpress,7858 Maywood Hill,delivered
+396,269,2021-04-14,414.97,visa,22 Nevada Terrace,delivered
+397,107,2019-05-04,1123.71,mastercard,31173 Packers Lane,delivered
+398,79,2018-08-03,1120.52,visa,92 Haas Crossing,processing
+399,102,2020-01-04,395.44,americanexpress,78 Sachtjen Park,shipped
+400,132,2022-11-13,1164.45,americanexpress,7725 Twin Pines Center,processing
+401,246,2023-03-09,1092.27,mastercard,77 Debra Road,delivered
+402,85,2018-10-21,336.04,mastercard,995 Eggendart Hill,delivered
+403,100,2019-08-20,1247.92,mastercard,331 Hoard Drive,delivered
+404,297,2022-04-11,1282.98,mastercard,16166 Melby Point,delivered
+405,106,2019-12-09,1365.52,americanexpress,704 Pine View Point,processing
+406,101,2021-06-06,1152.89,visa,31 Lake View Center,delivered
+407,19,2020-10-13,413.59,americanexpress,7 Harper Court,shipped
+408,27,2019-05-24,1216,americanexpress,748 Twin Pines Place,shipped
+409,258,2020-05-05,1317.11,mastercard,04 Hooker Pass,shipped
+410,148,2018-04-21,1467.5,americanexpress,239 Westend Terrace,delivered
+411,290,2022-01-27,780.65,mastercard,76 Garrison Drive,delivered
+412,89,2018-07-25,1169.97,visa,7 Anderson Lane,delivered
+413,205,2022-04-29,1767.5,mastercard,83 Northwestern Road,shipped
+414,202,2018-02-25,337.54,americanexpress,6 Mcguire Lane,shipped
+415,245,2021-11-20,1295.95,mastercard,4526 Victoria Drive,processing
+416,222,2023-04-25,1335.9,visa,91804 Hovde Plaza,processing
+417,275,2021-07-06,1728.41,americanexpress,1654 Ridge Oak Drive,delivered
+418,173,2018-09-21,679.35,americanexpress,02 Brickson Park Road,shipped
+419,245,2019-06-29,457.83,visa,2499 Ruskin Way,delivered
+420,87,2022-04-28,1022.27,visa,4 Nelson Park,delivered
+421,184,2022-02-06,1299.6,mastercard,5 Waubesa Plaza,shipped
+422,39,2023-06-29,1396.17,mastercard,92498 Butternut Point,shipped
+423,220,2023-10-26,1512.44,mastercard,69 Quincy Lane,shipped
+424,188,2018-05-14,1858.38,americanexpress,0460 Warrior Park,shipped
+425,27,2022-09-26,1461.18,mastercard,69 5th Point,shipped
+426,153,2021-04-04,1269.43,americanexpress,8771 Mayer Plaza,delivered
+427,233,2022-07-05,1724.09,visa,2 Fisk Place,processing
+428,244,2020-01-15,1685.21,americanexpress,89 Debra Street,shipped
+429,135,2022-05-25,1616.23,mastercard,429 Westend Center,processing
+430,252,2021-12-12,540.9,mastercard,0661 Marquette Lane,shipped
+431,267,2022-12-26,1809.84,visa,25 Steensland Crossing,processing
+432,36,2021-07-21,1858.4,americanexpress,70 Dexter Court,shipped
+433,212,2020-07-29,624.73,visa,9 Esch Center,shipped
+434,183,2020-03-15,1551.24,mastercard,4626 Westport Center,processing
+435,116,2019-05-16,698.27,visa,3673 Kings Drive,shipped
+436,12,2022-01-25,1280.75,visa,9 Nelson Hill,shipped
+437,166,2020-08-18,526.62,americanexpress,7166 Luster Point,shipped
+438,244,2021-04-28,523.39,americanexpress,7 Vera Drive,delivered
+439,72,2022-08-08,1496,mastercard,25 Melby Drive,shipped
+440,77,2022-09-05,370.53,visa,56 Hagan Lane,processing
+441,180,2021-12-22,347.05,visa,2136 Garrison Alley,processing
+442,220,2022-06-24,453.59,mastercard,35467 Roxbury Junction,delivered
+443,251,2021-01-16,1151.85,americanexpress,256 Thompson Alley,processing
+444,178,2023-05-03,1445.37,mastercard,1 Annamark Road,processing
+445,148,2020-04-18,1590.84,mastercard,2 Claremont Road,delivered
+446,103,2021-08-29,650.87,mastercard,69 Kingsford Center,processing
+447,195,2020-12-25,528.06,visa,7 Prairieview Park,delivered
+448,62,2021-04-15,1115.58,americanexpress,7 Memorial Hill,processing
+449,158,2022-01-28,1850.27,visa,643 Caliangt Pass,processing
+450,144,2020-01-17,1802.35,visa,7237 Sugar Plaza,processing
+451,232,2020-01-10,1075.49,visa,303 Farwell Road,delivered
+452,251,2019-01-31,1031.82,mastercard,37 Corry Lane,shipped
+453,227,2023-09-16,1354.12,visa,49 Manufacturers Drive,processing
+454,165,2020-10-30,1827.8,americanexpress,213 Union Avenue,shipped
+455,150,2019-04-28,267.21,visa,69610 Bowman Hill,processing
+456,192,2022-10-16,950.95,mastercard,9 Reindahl Parkway,shipped
+457,294,2022-11-26,1068.79,visa,9 Lindbergh Center,delivered
+458,189,2019-06-27,600.23,visa,4731 Hoard Trail,shipped
+459,263,2021-04-04,562.61,mastercard,91 Sherman Trail,delivered
+460,181,2022-03-18,533.81,mastercard,53850 Hoffman Trail,shipped
+461,153,2020-03-20,382.16,americanexpress,2414 Pawling Avenue,processing
+462,46,2023-05-25,1023.2,americanexpress,88212 Gulseth Drive,processing
+463,276,2021-10-20,1595.62,visa,9 Thierer Point,processing
+464,229,2018-10-25,1262.93,mastercard,938 Hayes Junction,processing
+465,136,2021-07-27,1497.13,americanexpress,0856 6th Avenue,delivered
+466,115,2020-05-17,1972.07,mastercard,31543 Dottie Drive,shipped
+467,47,2018-07-12,1350.5,visa,91 Buhler Circle,processing
+468,158,2020-07-30,1248.02,mastercard,4 Burning Wood Park,shipped
+469,137,2021-04-26,1511.32,americanexpress,713 Monument Junction,delivered
+470,3,2022-03-04,1884.05,visa,6667 Drewry Street,shipped
+471,227,2018-01-03,1693.69,visa,3 Pankratz Hill,shipped
+472,14,2021-06-21,455.02,mastercard,0509 Oxford Terrace,processing
+473,73,2023-10-20,1959.51,mastercard,8 Cody Drive,delivered
+474,224,2019-10-03,843.87,americanexpress,76692 Vahlen Place,processing
+475,110,2019-12-31,1353.39,mastercard,3 Fairview Crossing,shipped
+476,113,2022-05-14,1573.37,mastercard,3 Bluestem Hill,delivered
+477,214,2021-05-19,1463.64,mastercard,2 Laurel Trail,processing
+478,144,2018-01-15,794.51,americanexpress,76 Oxford Trail,shipped
+479,111,2022-10-30,583.08,mastercard,5 Laurel Trail,shipped
+480,124,2021-07-26,1706.59,visa,9960 Sunbrook Street,processing
+481,106,2018-10-11,1492.22,visa,1 Debs Center,shipped
+482,16,2018-04-25,1957.89,mastercard,651 Carey Pass,delivered
+483,258,2019-04-15,1401.75,mastercard,9556 Claremont Point,shipped
+484,294,2018-10-17,806.34,americanexpress,433 Ridge Oak Trail,processing
+485,232,2018-08-27,1114.74,americanexpress,488 Loomis Parkway,shipped
+486,114,2022-10-26,1499.04,mastercard,90 Schmedeman Drive,shipped
+487,237,2019-12-18,199.07,mastercard,067 Pankratz Court,processing
+488,261,2019-09-04,438.34,mastercard,77 Stone Corner Plaza,processing
+489,103,2018-01-05,997.02,americanexpress,1 6th Point,processing
+490,93,2023-01-29,525.09,visa,13583 Ridgeview Park,processing
+491,290,2019-12-29,266.51,visa,0 South Junction,shipped
+492,38,2019-12-25,777.62,visa,1 Fair Oaks Plaza,shipped
+493,221,2019-01-26,843.37,mastercard,1800 Valley Edge Street,processing
+494,212,2020-08-26,382.12,visa,9 Ohio Park,delivered
+495,85,2018-08-14,520,visa,5660 Di Loreto Point,processing
+496,100,2022-10-27,1563.56,visa,2296 Texas Hill,processing
+497,176,2021-01-01,841.06,visa,6088 Kennedy Hill,shipped
+498,72,2018-08-12,314.43,visa,8161 Melody Circle,delivered
+499,164,2021-11-18,1491.86,mastercard,87 Straubel Parkway,delivered
+500,289,2023-02-28,670.5,americanexpress,2 Fieldstone Way,processing
+501,231,2023-01-07,616.14,visa,1083 Farmco Crossing,delivered
+502,266,2023-08-18,1308.56,mastercard,3446 Brown Circle,delivered
+503,16,2018-12-26,1423.67,mastercard,6721 Mallard Center,processing
+504,26,2018-07-08,314.17,americanexpress,8 Artisan Parkway,processing
+505,86,2020-10-08,244.7,americanexpress,8 Clyde Gallagher Place,shipped
+506,215,2021-04-23,1402.31,mastercard,09851 North Court,processing
+507,34,2019-12-26,1681.08,americanexpress,3 Oneill Crossing,processing
+508,214,2021-01-26,1338.55,mastercard,9569 Arizona Drive,shipped
+509,190,2021-10-17,1245.36,visa,45606 American Parkway,processing
+510,288,2023-08-09,620.68,americanexpress,914 Thackeray Avenue,processing
+511,127,2021-04-08,723.64,americanexpress,61574 Lukken Drive,shipped
+512,97,2023-03-20,517.68,americanexpress,30069 Cordelia Terrace,delivered
+513,248,2019-02-19,1080.67,mastercard,25353 Oak Way,delivered
+514,128,2023-05-16,823,visa,3376 Declaration Point,delivered
+515,177,2023-07-25,1184.67,mastercard,7 Messerschmidt Terrace,processing
+516,85,2018-01-06,1556.27,mastercard,0 Boyd Terrace,shipped
+517,114,2021-05-09,1088.26,mastercard,46 Hanson Center,delivered
+518,224,2019-01-04,1779.18,mastercard,358 Saint Paul Parkway,processing
+519,216,2023-01-27,1337.92,americanexpress,8748 Loftsgordon Park,shipped
+520,13,2018-02-15,1662.86,visa,5 Tennessee Park,delivered
+521,9,2021-03-12,1607.63,mastercard,7786 Hudson Park,processing
+522,2,2023-09-02,285.96,mastercard,83 Arapahoe Court,delivered
+523,207,2021-05-13,938.41,mastercard,81080 Ohio Place,delivered
+524,75,2020-10-25,1679.48,visa,16142 Morrow Hill,shipped
+525,180,2020-12-09,1786.97,visa,29197 Forster Way,processing
+526,166,2021-07-05,519.27,americanexpress,018 Bunker Hill Alley,shipped
+527,195,2020-03-28,770.13,mastercard,51990 Veith Plaza,delivered
+528,201,2022-05-01,678.59,americanexpress,976 Golden Leaf Plaza,shipped
+529,253,2019-09-17,1635.53,mastercard,1 Mallory Plaza,processing
+530,300,2021-10-31,1044.71,americanexpress,9 Manufacturers Parkway,processing
+531,209,2021-08-23,1757.04,americanexpress,97676 Tennyson Lane,shipped
+532,162,2019-09-05,1794.14,visa,6490 Leroy Lane,shipped
+533,96,2020-10-01,777.91,mastercard,70003 Butterfield Point,shipped
+534,232,2020-06-16,1961.25,americanexpress,341 Springs Junction,shipped
+535,28,2022-08-27,637.25,visa,8318 Luster Center,shipped
+536,106,2023-02-23,1040.36,mastercard,3 Holmberg Alley,shipped
+537,131,2022-03-20,1900.7,americanexpress,43 Magdeline Park,processing
+538,191,2020-06-11,901.44,americanexpress,12114 Eagan Alley,processing
+539,16,2022-07-16,1549.84,americanexpress,96631 Fairfield Pass,processing
+540,177,2018-11-07,1346.03,americanexpress,69 Duke Lane,shipped
+541,216,2022-02-11,1363.56,mastercard,320 Transport Avenue,delivered
+542,170,2020-04-13,918.42,visa,03417 Northridge Junction,processing
+543,110,2022-12-18,960.75,mastercard,32184 Elmside Circle,processing
+544,35,2020-09-09,1605.14,mastercard,5 Buell Terrace,processing
+545,20,2019-07-19,1202.85,mastercard,0 Brown Lane,shipped
+546,266,2020-01-03,1024.6,mastercard,12 Basil Court,delivered
+547,210,2020-12-23,575.06,mastercard,27 Vernon Hill,shipped
+548,300,2019-05-25,276.97,mastercard,78018 Golden Leaf Drive,processing
+549,260,2021-02-23,368.32,visa,6 Boyd Plaza,processing
+550,294,2021-04-23,377.41,americanexpress,000 5th Pass,delivered
+551,206,2021-02-20,582.53,mastercard,98130 Park Meadow Drive,processing
+552,75,2021-10-28,665.03,mastercard,4651 Packers Point,delivered
+553,283,2021-08-30,957.9,americanexpress,60946 Hagan Point,delivered
+554,229,2021-05-18,693.23,mastercard,66058 Burrows Avenue,processing
+555,211,2019-08-06,517.71,mastercard,4 Green Avenue,shipped
+556,92,2019-07-29,288.03,visa,184 Northfield Road,shipped
+557,59,2022-06-21,1159.77,mastercard,199 Lerdahl Hill,shipped
+558,252,2020-03-30,1754.61,visa,19300 Waubesa Drive,shipped
+559,34,2018-05-11,1730.42,mastercard,90303 Ridge Oak Point,delivered
+560,9,2020-09-05,1420.14,americanexpress,8939 Mayfield Plaza,processing
+561,130,2021-05-26,311.29,mastercard,635 Thompson Lane,shipped
+562,125,2022-06-27,981.94,visa,0 Dayton Hill,processing
+563,108,2023-01-03,452.55,mastercard,231 Knutson Center,delivered
+564,181,2022-01-08,378.61,visa,46 Eastlawn Terrace,shipped
+565,266,2022-07-27,1011.33,mastercard,206 Bunting Trail,delivered
+566,85,2023-11-07,1737.03,americanexpress,371 8th Terrace,processing
+567,291,2023-07-05,200.57,mastercard,69 High Crossing Crossing,processing
+568,85,2020-08-17,1002.51,mastercard,69 Cordelia Hill,shipped
+569,31,2022-02-11,676.9,visa,02991 School Park,processing
+570,150,2022-12-26,1179.52,mastercard,00597 Autumn Leaf Plaza,delivered
+571,157,2019-12-03,1175.53,americanexpress,266 Manley Center,shipped
+572,37,2018-06-06,378.41,americanexpress,30 Lakewood Gardens Point,shipped
+573,285,2022-12-17,515.84,americanexpress,75 Bultman Park,shipped
+574,180,2021-10-18,1185.48,visa,25342 Hermina Center,processing
+575,270,2023-04-15,1180.21,mastercard,830 Nevada Trail,delivered
+576,260,2018-05-17,1898.18,mastercard,425 Atwood Center,processing
+577,266,2020-10-12,1008.98,mastercard,95388 Columbus Way,processing
+578,58,2023-09-24,1473.66,americanexpress,39148 Loftsgordon Circle,shipped
+579,75,2021-01-22,495.75,mastercard,03 Golf Course Drive,processing
+580,273,2022-01-23,1000.11,mastercard,740 Stang Terrace,processing
+581,32,2021-10-06,1479.43,mastercard,084 Gina Parkway,processing
+582,133,2019-11-27,1357.9,mastercard,9504 Summer Ridge Hill,shipped
+583,36,2019-09-11,1167.61,americanexpress,46901 Sundown Junction,processing
+584,165,2023-03-30,1839.86,americanexpress,447 Sauthoff Street,delivered
+585,41,2021-06-06,1568.12,americanexpress,4173 Ridgeview Place,processing
+586,69,2023-09-17,929.98,mastercard,70630 Browning Drive,delivered
+587,273,2018-02-09,725.46,americanexpress,112 Graceland Drive,shipped
+588,61,2023-05-24,1652.13,mastercard,74 Dunning Street,processing
+589,122,2021-04-08,480.23,americanexpress,51614 Sugar Circle,delivered
+590,22,2019-08-13,578.38,visa,1 Reindahl Way,shipped
+591,257,2021-07-17,1608.23,visa,7 Forest Run Plaza,processing
+592,240,2019-09-09,1818.71,mastercard,5 Hanson Point,processing
+593,267,2022-12-28,1769.14,mastercard,410 Crescent Oaks Terrace,processing
+594,177,2019-12-28,496.51,americanexpress,23312 Weeping Birch Alley,shipped
+595,243,2020-05-06,1014.67,mastercard,07 Ridgeview Pass,delivered
+596,138,2018-07-15,1499.4,mastercard,2 Basil Trail,delivered
+597,153,2022-11-12,818.22,americanexpress,21274 Macpherson Place,delivered
+598,163,2019-10-21,1568.57,americanexpress,9 Spohn Avenue,delivered
+599,86,2020-10-04,1837.01,mastercard,23 Pennsylvania Park,shipped
+600,279,2020-12-24,389.62,americanexpress,4999 Fordem Point,delivered
